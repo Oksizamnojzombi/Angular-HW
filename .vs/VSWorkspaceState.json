@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\build",
-    "\\src"
+    "\\home-work-4-Oksizamnojzombi",
+    "\\home-work-4-Oksizamnojzombi\\src",
+    "\\home-work-4-Oksizamnojzombi\\src\\app",
+    "\\home-work-4-Oksizamnojzombi\\src\\app\\components",
+    "\\home-work-4-Oksizamnojzombi\\src\\app\\components\\car"
   ],
-  "SelectedNode": "\\src\\03.functions.ts",
   "PreviewInSolutionExplorer": false
 }
